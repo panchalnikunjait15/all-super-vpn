@@ -1,7 +1,7 @@
 import asyncio
 import websockets
 
-SERVER_URI = "wss://YOUR-RENDER-APP-NAME.onrender.com/connect"
+SERVER_URI = "wss://vajra-vpn.onrender.com/connect"
 
 
 async def run_client():
